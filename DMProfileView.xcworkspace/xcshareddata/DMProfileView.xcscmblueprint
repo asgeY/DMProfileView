@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "0F79CCFA06905F812580063622589EEAF6CFD397",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "0F79CCFA06905F812580063622589EEAF6CFD397" : 0,
+    "A0EDCE2B9BFB1131D42270B7BF7638E436524E27" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "E340FBAB-4212-4338-A947-4AF4109FEF4F",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "0F79CCFA06905F812580063622589EEAF6CFD397" : "DMProfileView\/",
+    "A0EDCE2B9BFB1131D42270B7BF7638E436524E27" : "Projects\/Development\/ChallengeHop\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "DMProfileView",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "DMProfileView.xcworkspace",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/danamajid\/DMProfileView.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "0F79CCFA06905F812580063622589EEAF6CFD397"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/danamajid\/challengehop-ios.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "A0EDCE2B9BFB1131D42270B7BF7638E436524E27"
+    }
+  ]
+}

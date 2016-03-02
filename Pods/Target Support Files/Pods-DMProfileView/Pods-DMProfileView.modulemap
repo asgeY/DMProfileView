@@ -1,0 +1,6 @@
+framework module Pods_DMProfileView {
+  umbrella header "Pods-DMProfileView-umbrella.h"
+
+  export *
+  module * { export * }
+}
